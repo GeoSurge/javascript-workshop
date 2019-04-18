@@ -1,5 +1,10 @@
 # javascript-workshop
 
+# Libraries:
+- Turf: http://turfjs.org
+- GeoBlaze: http://geoblaze.io
+- ShpJS: https://www.npmjs.com/package/shpjs
+
 # Data Sources:
 
 Landsat on Amazon Web Services:
