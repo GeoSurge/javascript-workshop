@@ -17,16 +17,18 @@ WorldPop:
 https://www.worldpop.org/
 
 # Schedule:
-9:00am - Intro
-9:05am - Setup
-9:15 - Turf.js
-9:20 - Calculate Hectares of Rainfed Wheat in Ukraine
-9:25 - Calculate Median Access to Ante-Natal Care in Kigali, Rwanda
-9:30 - Module Require Debugger
-9:35 - Break
-9:40 - Identifying Carr Wildfire with Landsat 8
-10:10 - Calculate Road Intersection Density
-10:20 - Wrap-up
+<ul>
+  <li>9:00am - Intro</li>
+  <li>9:05am - Setup</li>
+  <li>9:15 - Turf.js</li>
+  <li>9:20 - Calculate Hectares of Rainfed Wheat in Ukraine</li>
+  <li>9:25 - Calculate Median Access to Ante-Natal Care in Kigali, Rwanda</li>
+  <li>9:30 - Module Require Debugger</li>
+  <li>9:35 - Break </li>
+  <li>9:40 - Identifying Carr Wildfire with Landsat 8</li>
+  <li>10:10 - Calculate Road Intersection Density</li>
+  <li>10:20 - Wrap-up</li>
+</ul>
 
 # Notebooks:
 
